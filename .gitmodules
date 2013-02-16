@@ -1,0 +1,9 @@
+[submodule "Stretto"]
+	path = Stretto
+	url = ../Stretto.git
+[submodule "Obbligato"]
+	path = Obbligato
+	url = ../Obbligato.git
+[submodule "jdksavdecc-cpp"]
+	path = jdksavdecc-cpp
+	url = ../jdksavdecc-cpp
